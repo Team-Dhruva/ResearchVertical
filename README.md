@@ -1,5 +1,3 @@
-# ResearchVertical
-Resource repository of Research Vertical. We all sit together and eat each other’s brain :)
 
 # 🌌 dhRuVa's Research Vertical
 
